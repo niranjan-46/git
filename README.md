@@ -3,7 +3,7 @@
 ### **README.md - Git Guide for Beginners**  
 
 ```md
-# 🚀 Git Guide by [niranjan-46](https://github.com/niranjan-46)
+🚀 Git Guide by [niranjan-46]
 
 Welcome to the **Ultimate Git Guide**! This guide will help you understand Git commands with easy-to-follow steps, examples, and visuals.  
 
