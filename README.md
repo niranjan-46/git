@@ -205,51 +205,28 @@ git stash list   # View saved stashes
 
 ---
 
-## 🔗 **Working with Remote Repositories**  
+## 🔗 **Additional DevOps & Developer Commands**  
 
-### 📌 **Check Remote Repository URL**  
+### 📌 **Rebase Branch**  
 ```bash
-git remote -v
+git rebase <branch-name>
 ```
 
-### 📌 **Add a Remote Repository**  
+### 📌 **Squash Commits**  
 ```bash
-git remote add origin <repository-url>
+git rebase -i HEAD~<number-of-commits>
 ```
 
-Example:  
+### 📌 **Cherry Pick a Commit**  
 ```bash
-git remote add origin https://github.com/niranjan-46/microservices-python-app.git
+git cherry-pick <commit-hash>
 ```
 
----
-
-## ❌ **Fix Merge Conflicts**  
+### 📌 **Tagging a Commit**  
 ```bash
-# Open conflicted files, edit manually, then run:
-git add <file>
-git commit -m "Resolved merge conflict"
+git tag -a v1.0 -m "Version 1.0"
+git push origin v1.0
 ```
-
----
-
-## ⚠️ **Force Push (Use with Caution!)**  
-```bash
-git push --force origin <branch-name>
-```
-⚠️ *Overwrites the remote branch. Be careful!*  
-
----
-
-## 🎉 **Congratulations! You Are Now a Git Pro! 🚀**  
-🔥 Keep practicing, and you'll master Git in no time!  
-
----
-
-## 📖 **Useful Resources**  
-- [Official Git Documentation](https://git-scm.com/doc)  
-- [GitHub Learning Lab](https://lab.github.com/)  
-- [Pro Git Book (Free)](https://git-scm.com/book/en/v2)  
 
 ---
 
