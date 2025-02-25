@@ -1,6 +1,4 @@
-Here's a **user-friendly, well-structured, and visually appealing** `README.md` file tailored for your **GitHub username (`niranjan-46`)** with clear sections, icons, and easy-to-follow explanations.  
 
----
 
 ### **README.md - Git Guide for Beginners**  
 
