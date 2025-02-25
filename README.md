@@ -1,11 +1,8 @@
-
-
-### **README.md - Git Guide for Beginners**  
-
-```md
-🚀 Git Guide by [niranjan-46]
+# 🚀 Git Guide by [niranjan-46](https://github.com/niranjan-46)
 
 Welcome to the **Ultimate Git Guide**! This guide will help you understand Git commands with easy-to-follow steps, examples, and visuals.  
+
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 📌 **What is Git?**  
 Git is a **Version Control System (VCS)** that helps developers track code changes, collaborate efficiently, and maintain different versions of a project.  
@@ -257,14 +254,5 @@ git push --force origin <branch-name>
 ---
 
 ## 💬 **Need Help?**  
-Feel free to reach out to [niranjan-46](https://github.com/niranjan-46) or contribute to this guide! 🎯  
-```
+Feel free to reach out to **[niranjan-46](https://github.com/niranjan-46)** or contribute to this guide! 🎯  
 
----
-
-### **What’s Next?**
-1. **Add GIFs and images** to the `assets/` folder in your repo.
-2. **Update image links** inside `README.md`.
-3. **Commit & push** your README file.
-
-Would you like me to generate Git command GIFs for you? 🚀
